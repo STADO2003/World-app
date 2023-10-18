@@ -1,0 +1,21 @@
+.country-detail-wrapper{
+    display: flex;
+    max-width: 400px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 20px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      background-color: #dedad2;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      background-color: var(--card-background-color); 
+}
+.card-title{
+    font-size: 24px;
+      font-weight: bold;
+      margin-top: 10px;
+}
+.card-text{
+    margin-top: 15px;
+    font-weight: bold;
+}
